@@ -1,0 +1,11 @@
+{
+  "name": "yarn1",
+  "version": "1.0.0",
+  "description": "Question 9",
+  "main": "index.js",
+  "author": "Oda A",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
